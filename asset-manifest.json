@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/fs-87-react-node-argojkee/static/css/main.df133f38.css",
-    "main.js": "/fs-87-react-node-argojkee/static/js/main.bb47be4b.js",
+    "main.js": "/fs-87-react-node-argojkee/static/js/main.81ce91da.js",
     "static/js/681.0f8cb210.chunk.js": "/fs-87-react-node-argojkee/static/js/681.0f8cb210.chunk.js",
     "static/js/932.e2dc0e80.chunk.js": "/fs-87-react-node-argojkee/static/js/932.e2dc0e80.chunk.js",
     "static/js/637.b14ece57.chunk.js": "/fs-87-react-node-argojkee/static/js/637.b14ece57.chunk.js",
@@ -82,7 +82,7 @@
     "static/media/outlineDark.svg": "/fs-87-react-node-argojkee/static/media/outlineDark.f3494292b3856ab28b915c0403853d01.svg",
     "static/media/point.svg": "/fs-87-react-node-argojkee/static/media/point.fddb539b56ea3011c50a91ee6d888f28.svg",
     "main.df133f38.css.map": "/fs-87-react-node-argojkee/static/css/main.df133f38.css.map",
-    "main.bb47be4b.js.map": "/fs-87-react-node-argojkee/static/js/main.bb47be4b.js.map",
+    "main.81ce91da.js.map": "/fs-87-react-node-argojkee/static/js/main.81ce91da.js.map",
     "681.0f8cb210.chunk.js.map": "/fs-87-react-node-argojkee/static/js/681.0f8cb210.chunk.js.map",
     "932.e2dc0e80.chunk.js.map": "/fs-87-react-node-argojkee/static/js/932.e2dc0e80.chunk.js.map",
     "637.b14ece57.chunk.js.map": "/fs-87-react-node-argojkee/static/js/637.b14ece57.chunk.js.map",
@@ -94,6 +94,6 @@
   },
   "entrypoints": [
     "static/css/main.df133f38.css",
-    "static/js/main.bb47be4b.js"
+    "static/js/main.81ce91da.js"
   ]
 }
