@@ -12,7 +12,7 @@ ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
     <Provider store={store}>
       <PersistGate persistor={persistor}>
-        <BrowserRouter basename="dreamteam-water">
+        <BrowserRouter basename="fs-87-react-node-argojkee">
           <App />
           <ToastContainer />
         </BrowserRouter>
